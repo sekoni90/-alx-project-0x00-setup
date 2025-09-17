@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../components/Card";
-import Button from "@/components/button";
+import Button from "../components/Button"; // Relative path
 
 const Landing: React.FC = () => {
   return (
